@@ -1,0 +1,12 @@
+{
+  "name": "celljuke-vue",
+  "description": "An example component library built with Vue CLI 3.",
+  "author": {
+    "name": "Selçuk Kiraz",
+    "email": "selcukkiraz@gmail.com",
+    "github": "celljuke"
+  },
+  "peerDependencies": {
+    "vue": ">=2.0.0"
+  }
+}
